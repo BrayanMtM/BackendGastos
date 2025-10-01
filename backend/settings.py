@@ -13,6 +13,7 @@ ALLOWED_HOSTS = ["backendgastos.onrender.com","127.0.0.1", "localhost"]
 
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
+    "https://tarea-frontend-gilt.vercel.app/",
 ]
 
 INSTALLED_APPS = [
